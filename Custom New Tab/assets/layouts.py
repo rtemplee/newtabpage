@@ -6,7 +6,7 @@ def getNBAGamesDivList():
     NBAGames_div_list = []
     for game in api.nba.getNBAGames():
         
-        # ifWin = {'home', 'away'}
+        # ifWin = {'home', 'away'} hi
         # if None not in game['score'].values():
         #     if game['score']['home'] > game['score']['away']:
         #         ifWin['home'] == True
