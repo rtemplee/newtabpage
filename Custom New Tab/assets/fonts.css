@@ -1,0 +1,11 @@
+/* Fira Sans Condensed 700 (Bold) */
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('fonts/FS-Stadium-Bold-Condensed.woff2') format('woff2');
+}
+
+/* Proxima Nova */
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('fonts/ProximaNova-Regular.woff2') format('woff2');
+}
